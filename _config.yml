@@ -1,8 +1,8 @@
 # Site settings
-title:          SW
-description:    "organized chaos"
+title:          SIMPLE
+description:    "simple jekyll theme"
 baseurl:        "/"
-url:            "https://swoicik.github.io"
+url:            "https://swoicik.github.io/simple-jekyll-theme"
 
 # Author
 author:
