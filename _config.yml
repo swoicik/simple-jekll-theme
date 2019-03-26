@@ -1,0 +1,29 @@
+# Site settings
+title:          SW
+description:    "organized chaos"
+baseurl:        "/"
+url:            "https://swoicik.github.io"
+
+# Author
+author:
+  name:         swoicik
+  url:          https://swoicik.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year/:title
+paginate:       8
+
